@@ -5,6 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 
+# Name - Manraj Gill
+# Student number - 400353744
+#This code is from one of my assignments in a course I took. 
 import math
 import sys
 import random
